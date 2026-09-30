@@ -1,5 +1,9 @@
 # Persian Gravity (Antigravity-RTL) 🚀
 
+[![DevSponsors](https://img.shields.io/badge/DevSponsors-Verified_OSS-6366f1?style=for-the-badge&logo=github)](https://devsponsors.github.io)
+[![Sponsor](https://img.shields.io/badge/Sponsor-DevSponsors_Hub-emerald?style=for-the-badge&logo=github-sponsors)](https://devsponsors.github.io)
+
+
 Smart Right-to-Left (RTL) alignment and custom font patcher for the Antigravity AI-first development application and major IDEs (VS Code, Cursor, Trae, VSCodium, Windsurf).
 
 > 🟢 **Tested and verified on:** `macOS 15.7.3 (Sequoia)` & `Antigravity v2.6.0` (with full success)
